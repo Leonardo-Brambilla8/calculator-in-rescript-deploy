@@ -1,11 +1,12 @@
-- About
-This project is a calculator in rescript language
+# About
+- This project is a calculator in rescript language
 
-- Requirements
-NodeJS
-Rescript 
+# Requirements
+- NodeJS
+- Rescript 
 
-- How to run this projects
+# How to run this projects
+
 Install all dependecies
 ```sh
 npm install
