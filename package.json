@@ -2,11 +2,11 @@
   "name": "calculator-in-script",
   "version": "0.1.0",
   "scripts": {
-    "build": "bsb -make-world",
-    "start": "bsb -start-world",
-    "clean": "bsb -clean-world",
-    "server": "moduleserve ./ --port 3000",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npm run build",
+    "start": "npm start",
+    "clean": "npm clean",
+    "server": "npm run server",
+    "test": "npm run test"
   },
   "keywords": [
     "BuckleScript",
