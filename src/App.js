@@ -159,16 +159,6 @@ function App() {
                     return plabel / state;
                   }));
             break;
-        default:
-          throw {
-                RE_EXN_ID: "Match_failure",
-                _1: [
-                  "App.res",
-                  23,
-                  4
-                ],
-                Error: new Error()
-              };
       }
       Curry._1(setoperation, (function (param) {
               return " ";
