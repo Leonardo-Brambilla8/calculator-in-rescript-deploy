@@ -1,1 +1,0 @@
-ReactDOMRe.renderToElementWithId(<App />, "root"); //use this for index on HTML
