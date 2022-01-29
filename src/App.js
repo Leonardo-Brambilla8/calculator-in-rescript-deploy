@@ -159,6 +159,9 @@ function App() {
                     return plabel / state;
                   }));
             break;
+        default:
+          console.log(`Sorry, we are out of $.`);
+
       }
       Curry._1(setoperation, (function (param) {
               return " ";
@@ -166,6 +169,7 @@ function App() {
       Curry._1(sublabel, (function (param) {
               return 0;
             }));
+            
       
     };
     return React.createElement("div", {
